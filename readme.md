@@ -15,7 +15,7 @@
 <a href="#aula01">Aula 01: Primeiros passos.</a><br>
 <a href="#aula02">Aula 02: Descomplicando o código.</a><br>
 <a href="#aula03">Aula 03: Estilizando o layout.</a><br>
-<a href="#aula04">Aula 04: .</a><br>
+<a href="#aula04">Aula 04: Profissionalizando o projeto.</a><br>
 <a href="#aula05">Aula 05: .</a><br>
 
 ---
@@ -98,11 +98,11 @@
 "Nesta aula, para continuar acelerando no HTML e CSS, vamos estilizar o layout do  nosso projeto com uma técnica de Grid Layout."
 </em>
 
-### Aplicando o Grid Layout
+### 1. Aplicando o Grid Layout
 - [X]  Aplicando `Grid` no `Body`
 - [X]  Aplicando o background no `aside`
 
-### Background e logo 
+### 2. Background e logo 
 - [X] Importando o Background e Logo
 - [X] Adicionando a foto do usuário
 - [X] Adicionando o nome do usuário
@@ -115,3 +115,32 @@
 
 --- 
 
+<div id="aula04" align="center">
+<h2>Aula 04: Profissionalizando o projeto.</h2>
+</div>
+
+<em>
+"Nesta aula vamos profissionalizar o nosso código e deixar o nossa página ainda melhor. Para isso, vamos deixar o projeto responsivo, com adaptação aos tamanhos de tela, e preparar algumas animações."
+</em>
+
+### 1. Utilizando selector WebKit (mecanismo de renderização utilizado nos navegadores) para customizando a scrollbar
+
+### 2. Animações
+
+- [X] Efeito de hover na imagem
+  - [X] Utilizando uma `div` no efeito da imagem
+  - [X] Aplicando efeito `hover` na imagem
+  - [X] Deixando a transição suave
+
+- [X] Keyframes
+  - [X] Criando animação de entrada com Keyframe
+  - [X] Aplicando animação em todos os elementos filhos de `aside`
+  - [X] Aplicando animação na nav
+  
+### 3. Layout Responsivo
+- [X] Fontes responsivas
+- [X] Utilizando regra de mídia (media query)
+- [X] Reduzindo o tamanho da fonte
+- [X] Modificando o Layout do Grid no `body`
+- [x] Modificando o `aside`
+- [X] Removendo o scroll somente da `nav`
