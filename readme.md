@@ -1,8 +1,7 @@
 <div align="center">
 <img align="right" src="https://static.vecteezy.com/system/resources/previews/012/375/446/original/rocket-launch-start-up-symbol-png.png" width="120px"/>
 <h1>NLW Spacetime</h1>
-<h2>Trilha Explorer</h2>
-<h3>Rocketseat</h3>
+<h3>Trilha Explorer - Rocketseat</h3>
 </div>
 
 <h2>Sobre o projeto</h2>
@@ -13,7 +12,7 @@
 <h2>Aulas:</h2>
 
 <a href="#aula01">Aula 01: Primeiros passos.</a><br>
-<a href="#aula02">Aula 02: .</a><br>
+<a href="#aula02">Aula 02: Descomplicando o código.</a><br>
 <a href="#aula03">Aula 03: .</a><br>
 <a href="#aula04">Aula 04: .</a><br>
 <a href="#aula05">Aula 05: .</a><br>
@@ -39,6 +38,20 @@
 ### 5. Introdução ao HTML.
 
 ### 6. Criando a memória da timelime.
+
+--- 
+
+<div id="aula02" align="center">
+<h2>Aula 02: Descomplicando o código.</h2>
+</div>
+
+<em>
+"Nesta aula nós vamos avançar ainda mais no HTML e utilizar o CSS para deixar o visual da nossa aplicação incrível."
+</em>
+
+### 1. Introdução ao CSS
+
+### 2. Estilizando a memória
 
 --- 
 
