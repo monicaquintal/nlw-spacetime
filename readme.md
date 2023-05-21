@@ -8,7 +8,7 @@
 
 <br>
 <div align="center">
-  <img src="./assets/projeto.png" width="70%"><br>
+  <img src="./assets/projeto.png"><br>
   <em>Layout do Projeto.</em>
 </div>
 <br>
