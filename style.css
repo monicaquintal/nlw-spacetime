@@ -7,17 +7,67 @@
 body {
   background-color: #121215;
   color: #EAEAEA;
+
   font-family: 'Roboto', sans-serif;
+
+  display: grid;
+  grid-template-areas: "profile timeline";
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 100vh;
+}
+
+aside {
+  grid-area: profile;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+  border-right: 1px solid;
+  border-image: linear-gradient(#727275, #2C2C31) 1;
+
+  background-image: url("./assets/background.svg");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
+
+aside img:nth-child(2) {
+  width: 160px;
+  height: 160px;
+  /*
+  já importei minha imagem de perfil arredondada e com borda do Figma
+  o prof. utilizou o CSS para estilizar a dele:
+  border-radius: 50%;
+  background: linear-gradient(#D39333, #ED5636, #633BBC) padding-box,
+  linear-gradient(260deg, #D39333, #ED5636, #633BBC) border-box;
+  */
+}
+
+aside p {
+  font-size: 32px;
+  text-align: center;
+}
+
+aside span {
+  font-size: 12px;
+  color: #9E9EA0;
 }
 
 nav {
   padding: 64px;
+  grid-area: timeline;
+
+  overflow-y: scroll;
 }
 
 .memory {
   display: flex;
   flex-direction: column;
   gap: 16px;
+
   text-decoration: none;
   margin-bottom: 64px;
 }
