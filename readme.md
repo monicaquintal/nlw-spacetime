@@ -4,9 +4,17 @@
 <h3>Trilha Explorer - Rocketseat</h3>
 </div>
 
-<h2>Sobre o projeto</h2>
+<h2>Sobre o projeto:</h2>
 
-- O foco da trilha é a programação Front-end Web (especificamente HTML e CSS).
+<br>
+<div align="center">
+  <img src="./assets/projeto.png" width="70%"><br>
+  <em>Layout do Projeto.</em>
+</div>
+<br>
+
+- Trata-se de um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
+- O foco da trilha é a programação Front-end Web (HTML e CSS), além de Git e GitHub.
 - [Figma](https://www.figma.com/community/file/1240071097028170811/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer). 🚀
 - [Notion](https://efficient-sloth-d85.notion.site/NLW-12-Spacetime-02e2ac5c92674f849638f9040a624652). 📚
 
@@ -16,7 +24,7 @@
 <a href="#aula02">Aula 02: Descomplicando o código.</a><br>
 <a href="#aula03">Aula 03: Estilizando o layout.</a><br>
 <a href="#aula04">Aula 04: Profissionalizando o projeto.</a><br>
-<a href="#aula05">Aula 05: .</a><br>
+<a href="#aula05">Aula 05: O próximo nível.</a><br>
 
 ---
 
@@ -144,3 +152,38 @@
 - [X] Modificando o Layout do Grid no `body`
 - [x] Modificando o `aside`
 - [X] Removendo o scroll somente da `nav`
+
+--- 
+
+<div id="aula05" align="center">
+<h2>Aula 05: O próximo nível.</h2>
+</div>
+
+<em>
+"Nesta última aula prática você vai aprender a fazer modificações no projeto e a compartilhar seu projeto na web para o mundo com Github, criando um link para acessar de qualquer lugar."
+</em>
+
+### 1. O que é o Git
+
+- [X] Iniciando o git (repositório) no projeto com: `git init`
+- [X] Adicionando todos os arquivos modificados ao stage: `git add .`
+- [X] Criando um ponto na história: `git commit -m “primeiro commit”`
+
+### 2. O que é o GitHub
+
+- [X] Criando um novo repositório no GitHub.
+- [X] Adicionando origem do repositório remoto.
+- [X] Enviando o projeto para o repositório remoto.
+- [X] Criando um novo ponto na história.
+    - [X] Criando um README
+- [X] Fazendo um novo commit pela interface do VSCode
+- [X] Fazendo o push pela interface do VSCode
+- [X] Visualizando o histórico das versões.
+
+### 3. Publicando o site
+- [X] Obtendo o link do site: https://`seu_suario`.github.io/`nome_repositorio`
+- [X] Adicionando uma descrição no repositório
+- [X] Adicionando o link do site no repositório
+- [X] Adicionando tópicos
+
+### 4. Como atualizar o projeto
